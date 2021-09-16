@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.divjug1{
+  float: left ;
+  border: 3px solid #000 ;
+  width:50% ;
+  height: 50%;
+}
+.divjug2{
+  float: left ;
+  border: 3px solid #000;
+  width:50% ;
+  height: 50%;
+}
+
+.bg-menuCartas {
+  --bs-bg-opacity: 1;
+  background-color: #1c2d25;
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 1.33;
+}
+
+.btn-circle {
+  width: 60px;
+  height: 58px;
+  padding: 6px 0px;
+  border-radius: 35px !important;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.42857;
+}
+.home-component {
+  background: url("https://i.ibb.co/Tk0TQgh/4k-gambling-table-casino-dice-chips-besthqwallpapers-com-1024x640.jpg") no-repeat center center fixed;
+background-size: cover;
+height: 930px;
+}
+
+.font-bar {
+  color: #f5f9ff!important;
+}
+
+.about-component {
+  background: url("https://i.ibb.co/tD1r1Qz/Consiste.jpg") no-repeat center center fixed;
+background-size: cover;
+height: 930px;
+}
+
+
